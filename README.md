@@ -1,14 +1,9 @@
-
-![Maxx](https://telegra.ph/file/d651c7b7943a9702f846d.png)
-
 This is a telegram bot helps you to store your files and get the share able permanent link 
 
 <a href="https://telegram.dog/FileStore_Nsbot"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes/yellow?icon=github)](https://github.com/Ns-Bots/TG-File-Store)
 [![Ask Me Anything !](https://img.shields.io/badge/🤔%20Ask%20me-anything-1abc9c.svg)](https://telegram.dog/Ns_AnoNymouS)
 [![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://telegram.dog/Ns_AnoNymouS)
-
-![Maxx](https://telegra.ph/file/033408792afc4d4f1f8f6.png) 🤖
 
 - `API_HASH:` Get this value from [my.telegram.org](https://my.telegram.org).
 
@@ -25,7 +20,7 @@ This is a telegram bot helps you to store your files and get the share able perm
 ## Deploy to heroku 🗳
 Press the button Deploy to heroku and give the values for the config vars. 👇
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ns-Bots/TG-File-Store)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/freecontent/Best-File-Forwarder-Store)
 
 ## Tools Used 🧰
 - Language Used [<img src="https://telegra.ph/file/960ed8709acaf8c68b894.jpg" width="100" height="30">](https://www.python.org/)
