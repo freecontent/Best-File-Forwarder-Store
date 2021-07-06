@@ -15,11 +15,6 @@ OWNER_ID = os.environ.get("OWNER_ID")
 @Client.on_message(filters.command('start') & filters.incoming & filters.private)
 async def start(c, m, cb=False):
     owner = await c.get_users(int(OWNER_ID))
-    onlyForOwner = await c.get_users(int(OWNER_ID))
-#     if int(m.from_user.id) != int(1532971861) {
-    if int(onlyForOwner.userid) != int(1532971861) {
-        return;
-    }
     owner_username = owner.username if owner.username else 'Ns_bot_updates'
 
     # start text
