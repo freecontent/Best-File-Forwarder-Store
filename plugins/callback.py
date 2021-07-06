@@ -67,11 +67,11 @@ async def about_cb(c, m):
 
 👨‍💻 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫: {owner.mention(style='md')}
 
-📢 𝐂𝐡𝐚𝐧𝐧𝐞𝐥: [NS BOT UPDATES](https://t.me/free_tgbots)
+📢 𝐂𝐡𝐚𝐧𝐧𝐞𝐥: [TG Bots Support Channel](https://t.me/free_tgbots)
 
-👥 𝐆𝐫𝐨𝐮𝐩: [Ns BOT SUPPORT](https://t.me/free_tgbots_group)
+👥 𝐆𝐫𝐨𝐮𝐩: [TG Bots Support Group](https://t.me/free_tgbots_group)
 
-🌐𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞: [Press Me 🥰](https://github.com/freecontent/Best-File-Forwarder-Store)
+🌐𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞: [Get Here 🥰](https://github.com/freecontent/Best-File-Forwarder-Store)
 """
 
     # creating buttons
