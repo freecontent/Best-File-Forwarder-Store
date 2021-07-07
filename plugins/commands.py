@@ -78,15 +78,10 @@ async def start(c, m, cb=False):
 
 
     else: # sending start message
-        if (m.from_user.id == 1532971861):
-            await m.reply_text(
+        await m.reply_text(
                 text=text,
                 quote=True,
                 reply_markup=InlineKeyboardMarkup(buttons)
-            )
-         else:
-            await m.reply_text(
-                text=f"Sorry.. It is a private bot, you can only get stored messages."
             )
 
 
