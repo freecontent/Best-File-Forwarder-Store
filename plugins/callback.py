@@ -70,8 +70,6 @@ async def about_cb(c, m):
 📢 𝐂𝐡𝐚𝐧𝐧𝐞𝐥: [TG Bots Support Channel](https://t.me/free_tgbots)
 
 👥 𝐆𝐫𝐨𝐮𝐩: [TG Bots Support Group](https://t.me/free_tgbots_group)
-
-🌐𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞: [Get Here 🥰](https://github.com/freecontent/Best-File-Forwarder-Store)
 """
 
     # creating buttons
